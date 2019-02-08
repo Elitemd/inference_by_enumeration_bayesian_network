@@ -1,1 +1,2 @@
-"# inference_by_enumeration_bayes_network" 
+<h1>Inference by enumeration for a bayesian network (ASIA)</h1>
+
