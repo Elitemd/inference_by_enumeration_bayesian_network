@@ -1,6 +1,6 @@
 <h2>Inference by enumeration for a bayesian network (ASIA)</h2>
 
-The program is made for ASIA network but you can easily adapt it for another bayesian network.
+The program is made for ASIA network but can be easily adapted for another bayesian network.
 
 Nodes, network topology and probability tables for each node can be set in <i>ASIABayesianNetwork.cs</i> using functions from Node class
 
