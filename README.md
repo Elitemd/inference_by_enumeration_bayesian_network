@@ -8,6 +8,11 @@ You can find the main algorithm functions in <i>InferenceByEnumaration.cs</i>
 
 Almost every line from the code is commented. If you find any issues fell free to share what you have found.
 
+An example of execution without any evidences in network
+<img src=https://i.imgur.com/PdxJSFa.png>
+
+You can set your own evidences in file <i>ASIABayesianNetwork.cs</i>, just change evidence array (-1 = no evidence, 1 = true, 0 = false)
+
 You can find the pseudocode used to implement this program here
 http://courses.csail.mit.edu/6.034s/handouts/spring12/bayesnets-pseudocode.pdf
 
